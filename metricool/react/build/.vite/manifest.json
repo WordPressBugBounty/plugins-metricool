@@ -1,0 +1,164 @@
+{
+  "_6Np5euiX.js": {
+    "file": "assets/6Np5euiX.js",
+    "name": "purify.es",
+    "imports": [
+      "src/main.tsx"
+    ]
+  },
+  "_Bag01ACu.js": {
+    "file": "assets/Bag01ACu.js",
+    "name": "ListItem",
+    "imports": [
+      "src/main.tsx",
+      "_CFYXg6N-.js",
+      "_6Np5euiX.js"
+    ]
+  },
+  "_BhUfvnBT.js": {
+    "file": "assets/BhUfvnBT.js",
+    "name": "AccountTile",
+    "imports": [
+      "src/main.tsx",
+      "_CFYXg6N-.js",
+      "_6Np5euiX.js"
+    ]
+  },
+  "_C9KTcSXM.js": {
+    "file": "assets/C9KTcSXM.js",
+    "name": "OnboardingForm",
+    "imports": [
+      "src/main.tsx",
+      "_6Np5euiX.js",
+      "_CFYXg6N-.js"
+    ]
+  },
+  "_CFYXg6N-.js": {
+    "file": "assets/CFYXg6N-.js",
+    "name": "UserSettingsSchema",
+    "imports": [
+      "src/main.tsx",
+      "_6Np5euiX.js"
+    ]
+  },
+  "_D1ppcJPx.js": {
+    "file": "assets/D1ppcJPx.js",
+    "name": "useAuthenticationData",
+    "imports": [
+      "src/main.tsx",
+      "_CFYXg6N-.js",
+      "_6Np5euiX.js"
+    ]
+  },
+  "_tN3Jyc8C.js": {
+    "file": "assets/tN3Jyc8C.js",
+    "name": "AuthorizedLayout",
+    "imports": [
+      "src/main.tsx",
+      "_6Np5euiX.js"
+    ]
+  },
+  "assets/fonts/Inter-Variable.woff2": {
+    "file": "assets/DiVDrmQJ.woff2",
+    "src": "assets/fonts/Inter-Variable.woff2"
+  },
+  "assets/fonts/Nunito-Variable.woff2": {
+    "file": "assets/BP9RvTzy.woff2",
+    "src": "assets/fonts/Nunito-Variable.woff2"
+  },
+  "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js": {
+    "file": "assets/B6u7idk8.js",
+    "name": "BaseTanStackRouterDevtoolsPanel-SWyE65Is",
+    "src": "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx"
+    ]
+  },
+  "src/main.tsx": {
+    "file": "assets/DE-SIukw.js",
+    "name": "main",
+    "src": "src/main.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js",
+      "src/routes/_authorized/route.lazy.tsx",
+      "src/routes/index.lazy.tsx",
+      "src/routes/_authorized/settings/route.lazy.tsx",
+      "src/routes/_authorized/settings/connections.lazy.tsx",
+      "src/routes/_authorized/settings/account.lazy.tsx"
+    ],
+    "css": [
+      "assets/Bdw7ZQdn.css"
+    ],
+    "assets": [
+      "assets/DiVDrmQJ.woff2",
+      "assets/BP9RvTzy.woff2"
+    ]
+  },
+  "src/routes/_authorized/route.lazy.tsx": {
+    "file": "assets/BXzV9QqS.js",
+    "name": "route.lazy",
+    "src": "src/routes/_authorized/route.lazy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_tN3Jyc8C.js",
+      "_6Np5euiX.js"
+    ]
+  },
+  "src/routes/_authorized/settings/account.lazy.tsx": {
+    "file": "assets/BfHHo_XP.js",
+    "name": "account.lazy",
+    "src": "src/routes/_authorized/settings/account.lazy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_CFYXg6N-.js",
+      "_6Np5euiX.js",
+      "_D1ppcJPx.js"
+    ]
+  },
+  "src/routes/_authorized/settings/connections.lazy.tsx": {
+    "file": "assets/C4qNIcde.js",
+    "name": "connections.lazy",
+    "src": "src/routes/_authorized/settings/connections.lazy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_C9KTcSXM.js",
+      "_6Np5euiX.js",
+      "_CFYXg6N-.js",
+      "_BhUfvnBT.js"
+    ]
+  },
+  "src/routes/_authorized/settings/route.lazy.tsx": {
+    "file": "assets/DUqSekrZ.js",
+    "name": "route.lazy",
+    "src": "src/routes/_authorized/settings/route.lazy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_6Np5euiX.js",
+      "_C9KTcSXM.js",
+      "_CFYXg6N-.js",
+      "_Bag01ACu.js"
+    ]
+  },
+  "src/routes/index.lazy.tsx": {
+    "file": "assets/BC5evBaG.js",
+    "name": "index.lazy",
+    "src": "src/routes/index.lazy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_6Np5euiX.js",
+      "_CFYXg6N-.js",
+      "_C9KTcSXM.js",
+      "_Bag01ACu.js",
+      "_tN3Jyc8C.js",
+      "_D1ppcJPx.js",
+      "_BhUfvnBT.js"
+    ]
+  }
+}
