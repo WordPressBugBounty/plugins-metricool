@@ -7,43 +7,43 @@ $baseDir   = dirname($vendorDir);
 
 return array(
 	'Adbar\\Dot' => array(
-		'version' => '3.5.0.0',
+		'version' => '3.3.0.0',
 		'path'    => $vendorDir . '/adbario/php-dot-notation/src/Dot.php'
 	),
 	'Attribute' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php'
 	),
 	'Autoloader' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-autoloader.php'
 	),
 	'Autoloader_Handler' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-autoloader-handler.php'
 	),
 	'Autoloader_Locator' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-autoloader-locator.php'
 	),
 	'Automattic\\Jetpack\\Autoloader\\AutoloadFileWriter' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadFileWriter.php'
 	),
 	'Automattic\\Jetpack\\Autoloader\\AutoloadGenerator' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadGenerator.php'
 	),
 	'Automattic\\Jetpack\\Autoloader\\AutoloadProcessor' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadProcessor.php'
 	),
 	'Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php'
 	),
 	'Automattic\\Jetpack\\Autoloader\\ManifestGenerator' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/ManifestGenerator.php'
 	),
 	'Carbon\\AbstractTranslator' => array(
@@ -379,1075 +379,1067 @@ return array(
 		'path'    => $vendorDir . '/nesbot/carbon/src/Carbon/TranslatorStrongTypeInterface.php'
 	),
 	'Container' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-container.php'
 	),
 	'GuzzleHttp\\BodySummarizer' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/BodySummarizer.php'
 	),
 	'GuzzleHttp\\BodySummarizerInterface' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/BodySummarizerInterface.php'
 	),
 	'GuzzleHttp\\Client' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Client.php'
 	),
 	'GuzzleHttp\\ClientInterface' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/ClientInterface.php'
 	),
 	'GuzzleHttp\\ClientTrait' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/ClientTrait.php'
 	),
 	'GuzzleHttp\\Cookie\\CookieJar' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Cookie/CookieJar.php'
 	),
 	'GuzzleHttp\\Cookie\\CookieJarInterface' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php'
 	),
 	'GuzzleHttp\\Cookie\\FileCookieJar' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php'
 	),
 	'GuzzleHttp\\Cookie\\SessionCookieJar' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php'
 	),
 	'GuzzleHttp\\Cookie\\SetCookie' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Cookie/SetCookie.php'
 	),
 	'GuzzleHttp\\Exception\\BadResponseException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/BadResponseException.php'
 	),
 	'GuzzleHttp\\Exception\\ClientException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/ClientException.php'
 	),
 	'GuzzleHttp\\Exception\\ConnectException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/ConnectException.php'
 	),
 	'GuzzleHttp\\Exception\\GuzzleException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/GuzzleException.php'
 	),
 	'GuzzleHttp\\Exception\\InvalidArgumentException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php'
 	),
 	'GuzzleHttp\\Exception\\RequestException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/RequestException.php'
 	),
 	'GuzzleHttp\\Exception\\ServerException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/ServerException.php'
 	),
 	'GuzzleHttp\\Exception\\TooManyRedirectsException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php'
 	),
 	'GuzzleHttp\\Exception\\TransferException' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Exception/TransferException.php'
 	),
 	'GuzzleHttp\\HandlerStack' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/HandlerStack.php'
 	),
 	'GuzzleHttp\\Handler\\CurlFactory' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/CurlFactory.php'
 	),
 	'GuzzleHttp\\Handler\\CurlFactoryInterface' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php'
 	),
 	'GuzzleHttp\\Handler\\CurlHandler' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/CurlHandler.php'
 	),
 	'GuzzleHttp\\Handler\\CurlMultiHandler' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php'
 	),
-	'GuzzleHttp\\Handler\\CurlShareHandleState' => array(
-		'version' => '7.11.1.0',
-		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/CurlShareHandleState.php'
-	),
 	'GuzzleHttp\\Handler\\EasyHandle' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/EasyHandle.php'
 	),
 	'GuzzleHttp\\Handler\\HeaderProcessor' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/HeaderProcessor.php'
 	),
 	'GuzzleHttp\\Handler\\MockHandler' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/MockHandler.php'
 	),
 	'GuzzleHttp\\Handler\\Proxy' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/Proxy.php'
 	),
 	'GuzzleHttp\\Handler\\StreamHandler' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Handler/StreamHandler.php'
 	),
 	'GuzzleHttp\\MessageFormatter' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/MessageFormatter.php'
 	),
 	'GuzzleHttp\\MessageFormatterInterface' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/MessageFormatterInterface.php'
 	),
 	'GuzzleHttp\\Middleware' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Middleware.php'
 	),
 	'GuzzleHttp\\Pool' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Pool.php'
 	),
 	'GuzzleHttp\\PrepareBodyMiddleware' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php'
 	),
 	'GuzzleHttp\\Promise\\AggregateException' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/AggregateException.php'
 	),
 	'GuzzleHttp\\Promise\\CancellationException' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/CancellationException.php'
 	),
 	'GuzzleHttp\\Promise\\Coroutine' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/Coroutine.php'
 	),
 	'GuzzleHttp\\Promise\\Create' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/Create.php'
 	),
 	'GuzzleHttp\\Promise\\Each' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/Each.php'
 	),
 	'GuzzleHttp\\Promise\\EachPromise' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/EachPromise.php'
 	),
 	'GuzzleHttp\\Promise\\FulfilledPromise' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/FulfilledPromise.php'
 	),
 	'GuzzleHttp\\Promise\\Is' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/Is.php'
 	),
 	'GuzzleHttp\\Promise\\Promise' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/Promise.php'
 	),
 	'GuzzleHttp\\Promise\\PromiseInterface' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/PromiseInterface.php'
 	),
 	'GuzzleHttp\\Promise\\PromisorInterface' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/PromisorInterface.php'
 	),
 	'GuzzleHttp\\Promise\\RejectedPromise' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/RejectedPromise.php'
 	),
 	'GuzzleHttp\\Promise\\RejectionException' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/RejectionException.php'
 	),
 	'GuzzleHttp\\Promise\\TaskQueue' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/TaskQueue.php'
 	),
 	'GuzzleHttp\\Promise\\TaskQueueInterface' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/TaskQueueInterface.php'
 	),
 	'GuzzleHttp\\Promise\\Utils' => array(
-		'version' => '2.5.0.0',
+		'version' => '2.3.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/promises/src/Utils.php'
 	),
 	'GuzzleHttp\\Psr7\\AppendStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/AppendStream.php'
 	),
 	'GuzzleHttp\\Psr7\\BufferStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/BufferStream.php'
 	),
 	'GuzzleHttp\\Psr7\\CachingStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/CachingStream.php'
 	),
 	'GuzzleHttp\\Psr7\\DroppingStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/DroppingStream.php'
 	),
 	'GuzzleHttp\\Psr7\\Exception\\MalformedUriException' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Exception/MalformedUriException.php'
 	),
 	'GuzzleHttp\\Psr7\\FnStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/FnStream.php'
 	),
 	'GuzzleHttp\\Psr7\\Header' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Header.php'
 	),
 	'GuzzleHttp\\Psr7\\HttpFactory' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/HttpFactory.php'
 	),
 	'GuzzleHttp\\Psr7\\InflateStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/InflateStream.php'
 	),
 	'GuzzleHttp\\Psr7\\LazyOpenStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/LazyOpenStream.php'
 	),
 	'GuzzleHttp\\Psr7\\LimitStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/LimitStream.php'
 	),
 	'GuzzleHttp\\Psr7\\Message' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Message.php'
 	),
 	'GuzzleHttp\\Psr7\\MessageTrait' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/MessageTrait.php'
 	),
 	'GuzzleHttp\\Psr7\\MimeType' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/MimeType.php'
 	),
 	'GuzzleHttp\\Psr7\\MultipartStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/MultipartStream.php'
 	),
 	'GuzzleHttp\\Psr7\\NoSeekStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/NoSeekStream.php'
 	),
 	'GuzzleHttp\\Psr7\\PumpStream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/PumpStream.php'
 	),
 	'GuzzleHttp\\Psr7\\Query' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Query.php'
 	),
 	'GuzzleHttp\\Psr7\\Request' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Request.php'
 	),
 	'GuzzleHttp\\Psr7\\Response' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Response.php'
 	),
-	'GuzzleHttp\\Psr7\\Rfc3986' => array(
-		'version' => '2.11.0.0',
-		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Rfc3986.php'
-	),
 	'GuzzleHttp\\Psr7\\Rfc7230' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Rfc7230.php'
 	),
 	'GuzzleHttp\\Psr7\\ServerRequest' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/ServerRequest.php'
 	),
 	'GuzzleHttp\\Psr7\\Stream' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Stream.php'
 	),
 	'GuzzleHttp\\Psr7\\StreamDecoratorTrait' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/StreamDecoratorTrait.php'
 	),
 	'GuzzleHttp\\Psr7\\StreamWrapper' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/StreamWrapper.php'
 	),
 	'GuzzleHttp\\Psr7\\UploadedFile' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/UploadedFile.php'
 	),
 	'GuzzleHttp\\Psr7\\Uri' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Uri.php'
 	),
 	'GuzzleHttp\\Psr7\\UriComparator' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/UriComparator.php'
 	),
 	'GuzzleHttp\\Psr7\\UriNormalizer' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/UriNormalizer.php'
 	),
 	'GuzzleHttp\\Psr7\\UriResolver' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/UriResolver.php'
 	),
 	'GuzzleHttp\\Psr7\\Utils' => array(
-		'version' => '2.11.0.0',
+		'version' => '2.8.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/psr7/src/Utils.php'
 	),
 	'GuzzleHttp\\RedirectMiddleware' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/RedirectMiddleware.php'
 	),
 	'GuzzleHttp\\RequestOptions' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/RequestOptions.php'
 	),
 	'GuzzleHttp\\RetryMiddleware' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/RetryMiddleware.php'
 	),
 	'GuzzleHttp\\TransferStats' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/TransferStats.php'
 	),
-	'GuzzleHttp\\TransportSharing' => array(
-		'version' => '7.11.1.0',
-		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/TransportSharing.php'
-	),
 	'GuzzleHttp\\Utils' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/Utils.php'
 	),
 	'Hook_Manager' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-hook-manager.php'
 	),
 	'Latest_Autoloader_Guard' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-latest-autoloader-guard.php'
 	),
 	'Manifest_Reader' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-manifest-reader.php'
 	),
 	'Metricool\\Bootstrap\\App' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/bootstrap/App.php'
 	),
 	'Metricool\\Bootstrap\\Plugin' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/bootstrap/Plugin.php'
 	),
 	'Metricool\\Controllers\\AdminController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/AdminController.php'
 	),
 	'Metricool\\Controllers\\CapabilityController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/CapabilityController.php'
 	),
 	'Metricool\\Controllers\\DashboardController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/DashboardController.php'
 	),
 	'Metricool\\Controllers\\MigrationsController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/MigrationsController.php'
 	),
 	'Metricool\\Controllers\\SharePostController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/SharePostController.php'
 	),
 	'Metricool\\Controllers\\TrackingScriptController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/TrackingScriptController.php'
 	),
 	'Metricool\\Controllers\\UpgradeController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Controllers/UpgradeController.php'
 	),
 	'Metricool\\Exceptions\\ApiException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Exceptions/ApiException.php'
 	),
 	'Metricool\\Exceptions\\RestDataException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Exceptions/RestDataException.php'
 	),
 	'Metricool\\Exceptions\\SettingsException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Exceptions/SettingsException.php'
 	),
 	'Metricool\\Features\\AbstractLoader' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AbstractLoader.php'
 	),
 	'Metricool\\Features\\AdminNotices\\AbstractAdminNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/AbstractAdminNotice.php'
 	),
 	'Metricool\\Features\\AdminNotices\\AdminNoticesController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/AdminNoticesController.php'
 	),
 	'Metricool\\Features\\AdminNotices\\AdminNoticesEndpoints' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/AdminNoticesEndpoints.php'
 	),
 	'Metricool\\Features\\AdminNotices\\AdminNoticesLoader' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/AdminNoticesLoader.php'
 	),
 	'Metricool\\Features\\AdminNotices\\AdminNoticesRepository' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/AdminNoticesRepository.php'
 	),
 	'Metricool\\Features\\AdminNotices\\Notices\\ReviewNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/Notices/ReviewNotice.php'
 	),
 	'Metricool\\Features\\AdminNotices\\Notices\\UpgradeNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/AdminNotices/Notices/UpgradeNotice.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\AbstractNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/AbstractNotice.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\ExampleConnectionsWarning' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/ExampleConnectionsWarning.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\ExampleInactiveNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/ExampleInactiveNotice.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\ExampleNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/ExampleNotice.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\ExamplePremiumNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/ExamplePremiumNotice.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\ExamplePremiumWarning' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/ExamplePremiumWarning.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\ExampleWarning' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/ExampleWarning.php'
 	),
 	'Metricool\\Features\\Notifications\\Notices\\FirstConnectionNotice' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/Notices/FirstConnectionNotice.php'
 	),
 	'Metricool\\Features\\Notifications\\NotificationListener' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/NotificationListener.php'
 	),
 	'Metricool\\Features\\Notifications\\NotificationsController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/NotificationsController.php'
 	),
 	'Metricool\\Features\\Notifications\\NotificationsEndpoints' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/NotificationsEndpoints.php'
 	),
 	'Metricool\\Features\\Notifications\\NotificationsLoader' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/NotificationsLoader.php'
 	),
 	'Metricool\\Features\\Notifications\\NotificationsRepository' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/NotificationsRepository.php'
 	),
 	'Metricool\\Features\\Notifications\\NotificationsService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Notifications/NotificationsService.php'
 	),
 	'Metricool\\Features\\Onboarding\\Exceptions\\BrandAccessDeniedException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/Exceptions/BrandAccessDeniedException.php'
 	),
 	'Metricool\\Features\\Onboarding\\Exceptions\\CreateAccountException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/Exceptions/CreateAccountException.php'
 	),
 	'Metricool\\Features\\Onboarding\\OnboardingController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/OnboardingController.php'
 	),
 	'Metricool\\Features\\Onboarding\\OnboardingLoader' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/OnboardingLoader.php'
 	),
 	'Metricool\\Features\\Onboarding\\OnboardingService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/OnboardingService.php'
 	),
 	'Metricool\\Features\\Onboarding\\Services\\CreateAccountService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/Services/CreateAccountService.php'
 	),
 	'Metricool\\Features\\Onboarding\\Services\\OAuthService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/Onboarding/Services/OAuthService.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Exceptions\\DismissRequiredTaskException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Exceptions/DismissRequiredTaskException.php'
 	),
 	'Metricool\\Features\\TaskManagement\\TaskManagementController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/TaskManagementController.php'
 	),
 	'Metricool\\Features\\TaskManagement\\TaskManagementEndpoints' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/TaskManagementEndpoints.php'
 	),
 	'Metricool\\Features\\TaskManagement\\TaskManagementListener' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/TaskManagementListener.php'
 	),
 	'Metricool\\Features\\TaskManagement\\TaskManagementLoader' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/TaskManagementLoader.php'
 	),
 	'Metricool\\Features\\TaskManagement\\TaskManagementRepository' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/TaskManagementRepository.php'
 	),
 	'Metricool\\Features\\TaskManagement\\TaskManagementService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/TaskManagementService.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\AbstractTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/AbstractTask.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\FirstConnectionTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/FirstConnectionTask.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\HistoricalDataTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/HistoricalDataTask.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\LinkedInTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/LinkedInTask.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\SchedulePostTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/SchedulePostTask.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\TwitterTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/TwitterTask.php'
 	),
 	'Metricool\\Features\\TaskManagement\\Tasks\\UnableToTrackTrafficTask' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/TaskManagement/Tasks/UnableToTrackTrafficTask.php'
 	),
 	'Metricool\\Features\\UserSettings\\Exceptions\\StorageFailedException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Exceptions/StorageFailedException.php'
 	),
 	'Metricool\\Features\\UserSettings\\Exceptions\\StorageNotFoundException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Exceptions/StorageNotFoundException.php'
 	),
 	'Metricool\\Features\\UserSettings\\Exceptions\\StorageSubmitException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Exceptions/StorageSubmitException.php'
 	),
 	'Metricool\\Features\\UserSettings\\Exceptions\\ValidationFailedExceptions' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Exceptions/ValidationFailedExceptions.php'
 	),
 	'Metricool\\Features\\UserSettings\\Exceptions\\ValidatorFailedException' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Exceptions/ValidatorFailedException.php'
 	),
 	'Metricool\\Features\\UserSettings\\Factories\\FieldFactory' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Factories/FieldFactory.php'
 	),
 	'Metricool\\Features\\UserSettings\\Factories\\FieldsFactory' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Factories/FieldsFactory.php'
 	),
 	'Metricool\\Features\\UserSettings\\Factories\\StorageFactory' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Factories/StorageFactory.php'
 	),
 	'Metricool\\Features\\UserSettings\\Factories\\ValidatorFactory' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Factories/ValidatorFactory.php'
 	),
 	'Metricool\\Features\\UserSettings\\Fields\\ExampleField' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Fields/ExampleField.php'
 	),
 	'Metricool\\Features\\UserSettings\\Fields\\Field' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Fields/Field.php'
 	),
 	'Metricool\\Features\\UserSettings\\Storage\\AbstractStorage' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Storage/AbstractStorage.php'
 	),
 	'Metricool\\Features\\UserSettings\\Storage\\OptionsStorage' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Storage/OptionsStorage.php'
 	),
 	'Metricool\\Features\\UserSettings\\Storage\\RemoteStorage' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Storage/RemoteStorage.php'
 	),
 	'Metricool\\Features\\UserSettings\\UserSettingsController' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/UserSettingsController.php'
 	),
 	'Metricool\\Features\\UserSettings\\UserSettingsEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/UserSettingsEndpoint.php'
 	),
 	'Metricool\\Features\\UserSettings\\UserSettingsLoader' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/UserSettingsLoader.php'
 	),
 	'Metricool\\Features\\UserSettings\\UserSettingsResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/UserSettingsResponse.php'
 	),
 	'Metricool\\Features\\UserSettings\\UserSettingsService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/UserSettingsService.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\AbstractValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/AbstractValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\EmailValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/EmailValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\FieldTypeValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/FieldTypeValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\FirstDayOfWeekValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/FirstDayOfWeekValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\RequiredIfValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/RequiredIfValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\RequiredValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/RequiredValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\SupportedLanguageValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/SupportedLanguageValidator.php'
 	),
 	'Metricool\\Features\\UserSettings\\Validators\\TimezoneValidator' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Features/UserSettings/Validators/TimezoneValidator.php'
 	),
 	'Metricool\\Http\\Endpoints\\AnalyticsEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/AnalyticsEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\ConnectedBrandsEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/ConnectedBrandsEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\ConnectedNetworksEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/ConnectedNetworksEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\CredentialsEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/CredentialsEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\DistributionEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/DistributionEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\LogoutEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/LogoutEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\OtherPluginsEndpoints' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/OtherPluginsEndpoints.php'
 	),
 	'Metricool\\Http\\Endpoints\\RealtimeEndpoint' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/RealtimeEndpoint.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\AnalyticsResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/AnalyticsResponse.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\ConnectedNetworksResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/ConnectedNetworksResponse.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\DistributionResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/DistributionResponse.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\RealtimeResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/RealtimeResponse.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\Response' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/Response.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\Statistics\\CountriesResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/Statistics/CountriesResponse.php'
 	),
 	'Metricool\\Http\\Endpoints\\Responses\\Statistics\\RefererResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Endpoints/Responses/Statistics/RefererResponse.php'
 	),
 	'Metricool\\Http\\Metricool\\DTOs\\DTO' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/DTOs/DTO.php'
 	),
 	'Metricool\\Http\\Metricool\\DTOs\\DistributionDTO' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/DTOs/DistributionDTO.php'
 	),
 	'Metricool\\Http\\Metricool\\DTOs\\TimelineDTO' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/DTOs/TimelineDTO.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\Brands' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/Brands.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\ConnectedBrands' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/ConnectedBrands.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\DistributionStatistics' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/DistributionStatistics.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\Facades\\RealtimeFacade' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/Facades/RealtimeFacade.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\Facades\\StatisticsFacade' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/Facades/StatisticsFacade.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\RealtimeStatistics' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/RealtimeStatistics.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\TimelineStatistics' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/TimelineStatistics.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\User' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/User.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\UserCredentials' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/UserCredentials.php'
 	),
 	'Metricool\\Http\\Metricool\\Entities\\UserSettings' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Entities/UserSettings.php'
 	),
+	'Metricool\\Http\\Metricool\\Exceptions\\ApiException' => array(
+		'version' => '2.0.1.0',
+		'path'    => $baseDir . '/app/Http/Metricool/Exceptions/ApiException.php'
+	),
 	'Metricool\\Http\\Metricool\\Filters\\PeriodFilter' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Filters/PeriodFilter.php'
 	),
 	'Metricool\\Http\\Metricool\\MetricoolApi' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/MetricoolApi.php'
 	),
 	'Metricool\\Http\\Metricool\\MetricoolClient' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/MetricoolClient.php'
 	),
 	'Metricool\\Http\\Metricool\\Traits\\IsCountable' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Traits/IsCountable.php'
 	),
 	'Metricool\\Http\\Metricool\\Traits\\IsFilterable' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Traits/IsFilterable.php'
 	),
 	'Metricool\\Http\\Metricool\\Traits\\IsSummable' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Metricool/Traits/IsSummable.php'
 	),
 	'Metricool\\Http\\Middleware\\HasAdministratorRole' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/HasAdministratorRole.php'
 	),
 	'Metricool\\Http\\Middleware\\HasMetricoolBlogId' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/HasMetricoolBlogId.php'
 	),
 	'Metricool\\Http\\Middleware\\HasMetricoolCapability' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/HasMetricoolCapability.php'
 	),
 	'Metricool\\Http\\Middleware\\IsMetricoolAuthenticated' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/IsMetricoolAuthenticated.php'
 	),
 	'Metricool\\Http\\Middleware\\IsWordPressAdminRequest' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/IsWordPressAdminRequest.php'
 	),
 	'Metricool\\Http\\Middleware\\SetLocale' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/SetLocale.php'
 	),
 	'Metricool\\Http\\Middleware\\VerifyNonce' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/Middleware/VerifyNonce.php'
 	),
 	'Metricool\\Http\\RSPAL\\RspalApiClient' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/RSPAL/RspalApiClient.php'
 	),
 	'Metricool\\Http\\RSPAL\\RspalApiResponse' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Http/RSPAL/RspalApiResponse.php'
 	),
 	'Metricool\\Interfaces\\ControllerInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/ControllerInterface.php'
 	),
 	'Metricool\\Interfaces\\FeatureInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/FeatureInterface.php'
 	),
 	'Metricool\\Interfaces\\MiddlewareInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/MiddlewareInterface.php'
 	),
 	'Metricool\\Interfaces\\MigrationInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/MigrationInterface.php'
 	),
 	'Metricool\\Interfaces\\MultiEndpointInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/MultiEndpointInterface.php'
 	),
 	'Metricool\\Interfaces\\NoticeInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/NoticeInterface.php'
 	),
 	'Metricool\\Interfaces\\ProviderInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/ProviderInterface.php'
 	),
 	'Metricool\\Interfaces\\SingleEndpointInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/SingleEndpointInterface.php'
 	),
 	'Metricool\\Interfaces\\TaskInterface' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Interfaces/TaskInterface.php'
 	),
 	'Metricool\\Managers\\AbstractManager' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Managers/AbstractManager.php'
 	),
 	'Metricool\\Managers\\ControllerManager' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Managers/ControllerManager.php'
 	),
 	'Metricool\\Managers\\EndpointManager' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Managers/EndpointManager.php'
 	),
 	'Metricool\\Managers\\FeatureManager' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Managers/FeatureManager.php'
 	),
 	'Metricool\\Managers\\ProviderManager' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Managers/ProviderManager.php'
 	),
 	'Metricool\\Providers\\MetricoolApiProvider' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Providers/MetricoolApiProvider.php'
 	),
 	'Metricool\\Providers\\Provider' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Providers/Provider.php'
 	),
 	'Metricool\\Services\\AnalyticsService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/AnalyticsService.php'
 	),
 	'Metricool\\Services\\Analytics\\TrendService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/Analytics/TrendService.php'
 	),
 	'Metricool\\Services\\CapabilityService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/CapabilityService.php'
 	),
 	'Metricool\\Services\\DashboardService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/DashboardService.php'
 	),
 	'Metricool\\Services\\MetricoolAccountService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/MetricoolAccountService.php'
 	),
 	'Metricool\\Services\\OptionsService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/OptionsService.php'
 	),
 	'Metricool\\Services\\OtherPluginService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/OtherPluginService.php'
 	),
 	'Metricool\\Services\\RealtimeService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/RealtimeService.php'
 	),
 	'Metricool\\Services\\TrackingScriptService' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Services/TrackingScriptService.php'
 	),
 	'Metricool\\Support\\Builders\\StatsChartTableBuilder' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Builders/StatsChartTableBuilder.php'
 	),
 	'Metricool\\Support\\Builders\\StatsTimelineBuilder' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Builders/StatsTimelineBuilder.php'
 	),
 	'Metricool\\Support\\Helpers\\Collection' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Collection.php'
 	),
 	'Metricool\\Support\\Helpers\\DeferredObject' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/DeferredObject.php'
 	),
 	'Metricool\\Support\\Helpers\\Event' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Event.php'
 	),
 	'Metricool\\Support\\Helpers\\MetricoolUrl' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/MetricoolUrl.php'
 	),
 	'Metricool\\Support\\Helpers\\Storage' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Storage.php'
 	),
 	'Metricool\\Support\\Helpers\\Storages\\EnvironmentConfig' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Storages/EnvironmentConfig.php'
 	),
 	'Metricool\\Support\\Helpers\\Storages\\GeneralConfig' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Storages/GeneralConfig.php'
 	),
 	'Metricool\\Support\\Helpers\\Storages\\MiddlewareConfig' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Storages/MiddlewareConfig.php'
 	),
 	'Metricool\\Support\\Helpers\\Storages\\RequestStorage' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Storages/RequestStorage.php'
 	),
 	'Metricool\\Support\\Helpers\\Storages\\UserSettingsConfig' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Storages/UserSettingsConfig.php'
 	),
 	'Metricool\\Support\\Helpers\\Uninstall' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Helpers/Uninstall.php'
 	),
 	'Metricool\\Support\\Utility\\StringUtility' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Support/Utility/StringUtility.php'
 	),
 	'Metricool\\Traits\\HasAllowlistControl' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Traits/HasAllowlistControl.php'
 	),
 	'Metricool\\Traits\\HasNonces' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Traits/HasNonces.php'
 	),
 	'Metricool\\Traits\\HasRestAccess' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Traits/HasRestAccess.php'
 	),
 	'Metricool\\Traits\\HasUserAccess' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Traits/HasUserAccess.php'
 	),
 	'Metricool\\Traits\\HasViews' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Traits/HasViews.php'
 	),
 	'Metricool\\Traits\\IsHydratable' => array(
-		'version' => '2.0.0.0',
+		'version' => '2.0.1.0',
 		'path'    => $baseDir . '/app/Traits/IsHydratable.php'
 	),
 	'PHP_Autoloader' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-php-autoloader.php'
 	),
 	'Path_Processor' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-path-processor.php'
 	),
 	'PhpToken' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/PhpToken.php'
 	),
 	'Plugin_Locator' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-plugin-locator.php'
 	),
 	'Plugins_Handler' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-plugins-handler.php'
 	),
 	'Psr\\Clock\\ClockInterface' => array(
@@ -1523,11 +1515,11 @@ return array(
 		'path'    => $vendorDir . '/psr/http-message/src/UriInterface.php'
 	),
 	'Shutdown_Handler' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-shutdown-handler.php'
 	),
 	'Stringable' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Stringable.php'
 	),
 	'Symfony\\Component\\Translation\\Catalogue\\AbstractOperation' => array(
@@ -1899,31 +1891,31 @@ return array(
 		'path'    => $vendorDir . '/symfony/translation-contracts/TranslatorTrait.php'
 	),
 	'Symfony\\Polyfill\\Mbstring\\Mbstring' => array(
-		'version' => '1.38.2.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-mbstring/Mbstring.php'
 	),
 	'Symfony\\Polyfill\\Php80\\Php80' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/Php80.php'
 	),
 	'Symfony\\Polyfill\\Php80\\PhpToken' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/PhpToken.php'
 	),
 	'UnhandledMatchError' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php'
 	),
 	'ValueError' => array(
-		'version' => '1.37.0.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/ValueError.php'
 	),
 	'Version_Loader' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-version-loader.php'
 	),
 	'Version_Selector' => array(
-		'version' => '5.0.19',
+		'version' => '5.0.13',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-version-selector.php'
 	),
 );

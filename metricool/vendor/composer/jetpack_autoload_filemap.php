@@ -10,13 +10,13 @@ return array(
 		'version' => '2.5.4.0',
 		'path'    => $vendorDir . '/symfony/deprecation-contracts/function.php'
 	),
-	'a4a119a56e50fbb293281d9a48007e0e' => array(
-		'version' => '1.37.0.0',
-		'path'    => $vendorDir . '/symfony/polyfill-php80/bootstrap.php'
-	),
 	'0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => array(
-		'version' => '1.38.2.0',
+		'version' => '1.33.0.0',
 		'path'    => $vendorDir . '/symfony/polyfill-mbstring/bootstrap.php'
+	),
+	'a4a119a56e50fbb293281d9a48007e0e' => array(
+		'version' => '1.33.0.0',
+		'path'    => $vendorDir . '/symfony/polyfill-php80/bootstrap.php'
 	),
 	'7b11c4dc42b3b3023073cb14e519683c' => array(
 		'version' => '3.0.3.0',
@@ -27,11 +27,11 @@ return array(
 		'path'    => $vendorDir . '/symfony/translation/Resources/functions.php'
 	),
 	'd767e4fc2dc52fe66584ab8c6684783e' => array(
-		'version' => '3.5.0.0',
+		'version' => '3.3.0.0',
 		'path'    => $vendorDir . '/adbario/php-dot-notation/src/helpers.php'
 	),
 	'37a3dc5111fe8f707ab4c132ef1dbc62' => array(
-		'version' => '7.11.1.0',
+		'version' => '7.10.0.0',
 		'path'    => $vendorDir . '/guzzlehttp/guzzle/src/functions_include.php'
 	),
 );
