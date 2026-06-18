@@ -1,61 +1,61 @@
 {
-  "_6Np5euiX.js": {
-    "file": "assets/6Np5euiX.js",
-    "name": "purify.es",
-    "imports": [
-      "src/main.tsx"
-    ]
-  },
-  "_Bag01ACu.js": {
-    "file": "assets/Bag01ACu.js",
-    "name": "ListItem",
-    "imports": [
-      "src/main.tsx",
-      "_CFYXg6N-.js",
-      "_6Np5euiX.js"
-    ]
-  },
-  "_BhUfvnBT.js": {
-    "file": "assets/BhUfvnBT.js",
-    "name": "AccountTile",
-    "imports": [
-      "src/main.tsx",
-      "_CFYXg6N-.js",
-      "_6Np5euiX.js"
-    ]
-  },
-  "_C9KTcSXM.js": {
-    "file": "assets/C9KTcSXM.js",
-    "name": "OnboardingForm",
-    "imports": [
-      "src/main.tsx",
-      "_6Np5euiX.js",
-      "_CFYXg6N-.js"
-    ]
-  },
-  "_CFYXg6N-.js": {
-    "file": "assets/CFYXg6N-.js",
+  "_B2sxfmXV.js": {
+    "file": "assets/B2sxfmXV.js",
     "name": "UserSettingsSchema",
     "imports": [
       "src/main.tsx",
-      "_6Np5euiX.js"
+      "_DpggRNen.js"
     ]
   },
-  "_D1ppcJPx.js": {
-    "file": "assets/D1ppcJPx.js",
-    "name": "useAuthenticationData",
+  "_B9Fp0NH6.js": {
+    "file": "assets/B9Fp0NH6.js",
+    "name": "ListItem",
     "imports": [
       "src/main.tsx",
-      "_CFYXg6N-.js",
-      "_6Np5euiX.js"
+      "_B2sxfmXV.js",
+      "_DpggRNen.js"
     ]
   },
-  "_tN3Jyc8C.js": {
-    "file": "assets/tN3Jyc8C.js",
+  "_CCi0TkJC.js": {
+    "file": "assets/CCi0TkJC.js",
     "name": "AuthorizedLayout",
     "imports": [
       "src/main.tsx",
-      "_6Np5euiX.js"
+      "_DpggRNen.js"
+    ]
+  },
+  "_CtTYRffj.js": {
+    "file": "assets/CtTYRffj.js",
+    "name": "useAuthenticationData",
+    "imports": [
+      "src/main.tsx",
+      "_B2sxfmXV.js",
+      "_DpggRNen.js"
+    ]
+  },
+  "_CwqZGHkJ.js": {
+    "file": "assets/CwqZGHkJ.js",
+    "name": "AccountTile",
+    "imports": [
+      "src/main.tsx",
+      "_B2sxfmXV.js",
+      "_DpggRNen.js"
+    ]
+  },
+  "_D3tmI3Ka.js": {
+    "file": "assets/D3tmI3Ka.js",
+    "name": "OnboardingForm",
+    "imports": [
+      "src/main.tsx",
+      "_DpggRNen.js",
+      "_B2sxfmXV.js"
+    ]
+  },
+  "_DpggRNen.js": {
+    "file": "assets/DpggRNen.js",
+    "name": "purify.es",
+    "imports": [
+      "src/main.tsx"
     ]
   },
   "assets/fonts/Inter-Variable.woff2": {
@@ -67,7 +67,7 @@
     "src": "assets/fonts/Nunito-Variable.woff2"
   },
   "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js": {
-    "file": "assets/B6u7idk8.js",
+    "file": "assets/5ruk6E-E.js",
     "name": "BaseTanStackRouterDevtoolsPanel-SWyE65Is",
     "src": "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js",
     "isDynamicEntry": true,
@@ -76,7 +76,7 @@
     ]
   },
   "src/main.tsx": {
-    "file": "assets/DE-SIukw.js",
+    "file": "assets/DKPqhQNU.js",
     "name": "main",
     "src": "src/main.tsx",
     "isEntry": true,
@@ -97,68 +97,68 @@
     ]
   },
   "src/routes/_authorized/route.lazy.tsx": {
-    "file": "assets/BXzV9QqS.js",
+    "file": "assets/D16dtImz.js",
     "name": "route.lazy",
     "src": "src/routes/_authorized/route.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_tN3Jyc8C.js",
-      "_6Np5euiX.js"
+      "_CCi0TkJC.js",
+      "_DpggRNen.js"
     ]
   },
   "src/routes/_authorized/settings/account.lazy.tsx": {
-    "file": "assets/BfHHo_XP.js",
+    "file": "assets/CD2AcGLl.js",
     "name": "account.lazy",
     "src": "src/routes/_authorized/settings/account.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_CFYXg6N-.js",
-      "_6Np5euiX.js",
-      "_D1ppcJPx.js"
+      "_B2sxfmXV.js",
+      "_DpggRNen.js",
+      "_CtTYRffj.js"
     ]
   },
   "src/routes/_authorized/settings/connections.lazy.tsx": {
-    "file": "assets/C4qNIcde.js",
+    "file": "assets/JPtGwYzg.js",
     "name": "connections.lazy",
     "src": "src/routes/_authorized/settings/connections.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_C9KTcSXM.js",
-      "_6Np5euiX.js",
-      "_CFYXg6N-.js",
-      "_BhUfvnBT.js"
+      "_D3tmI3Ka.js",
+      "_DpggRNen.js",
+      "_B2sxfmXV.js",
+      "_CwqZGHkJ.js"
     ]
   },
   "src/routes/_authorized/settings/route.lazy.tsx": {
-    "file": "assets/DUqSekrZ.js",
+    "file": "assets/Dt2f79t0.js",
     "name": "route.lazy",
     "src": "src/routes/_authorized/settings/route.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_6Np5euiX.js",
-      "_C9KTcSXM.js",
-      "_CFYXg6N-.js",
-      "_Bag01ACu.js"
+      "_DpggRNen.js",
+      "_D3tmI3Ka.js",
+      "_B2sxfmXV.js",
+      "_B9Fp0NH6.js"
     ]
   },
   "src/routes/index.lazy.tsx": {
-    "file": "assets/BC5evBaG.js",
+    "file": "assets/BDT3JpZG.js",
     "name": "index.lazy",
     "src": "src/routes/index.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_6Np5euiX.js",
-      "_CFYXg6N-.js",
-      "_C9KTcSXM.js",
-      "_Bag01ACu.js",
-      "_tN3Jyc8C.js",
-      "_D1ppcJPx.js",
-      "_BhUfvnBT.js"
+      "_DpggRNen.js",
+      "_B2sxfmXV.js",
+      "_D3tmI3Ka.js",
+      "_B9Fp0NH6.js",
+      "_CCi0TkJC.js",
+      "_CtTYRffj.js",
+      "_CwqZGHkJ.js"
     ]
   }
 }
