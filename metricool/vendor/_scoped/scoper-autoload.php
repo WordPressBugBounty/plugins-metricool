@@ -29,11 +29,11 @@ if (!function_exists('humbug_phpscoper_expose_class')) {
         }
     }
 }
-// humbug_phpscoper_expose_class('PhpToken', 'Metricool\Vendor\PhpToken'); // commented by WPify Scoper
-// humbug_phpscoper_expose_class('ValueError', 'Metricool\Vendor\ValueError'); // commented by WPify Scoper
 // humbug_phpscoper_expose_class('Attribute', 'Metricool\Vendor\Attribute'); // commented by WPify Scoper
-// humbug_phpscoper_expose_class('UnhandledMatchError', 'Metricool\Vendor\UnhandledMatchError'); // commented by WPify Scoper
+// humbug_phpscoper_expose_class('PhpToken', 'Metricool\Vendor\PhpToken'); // commented by WPify Scoper
 // humbug_phpscoper_expose_class('Stringable', 'Metricool\Vendor\Stringable'); // commented by WPify Scoper
+// humbug_phpscoper_expose_class('UnhandledMatchError', 'Metricool\Vendor\UnhandledMatchError'); // commented by WPify Scoper
+// humbug_phpscoper_expose_class('ValueError', 'Metricool\Vendor\ValueError'); // commented by WPify Scoper
 
 // Function aliases. For more information see:
 // https://github.com/humbug/php-scoper/blob/master/docs/further-reading.md#function-aliases

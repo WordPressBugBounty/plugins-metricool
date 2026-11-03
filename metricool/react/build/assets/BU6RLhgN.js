@@ -1,0 +1,1 @@
+import{u as o,$ as r,O as s}from"./zMBb-g8y.js";import{A as t}from"./DNyg_vK7.js";import"./12Zswrt4.js";const n=o("/_authorized")({component:function(){return r.jsx(t,{children:r.jsx(s,{})})}});export{n as Route};

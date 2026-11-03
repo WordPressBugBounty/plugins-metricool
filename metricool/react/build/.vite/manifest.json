@@ -1,60 +1,60 @@
 {
-  "_ATGErG6T.js": {
-    "file": "assets/ATGErG6T.js",
-    "name": "ListItem",
-    "imports": [
-      "src/main.tsx",
-      "_BVfD-bny.js"
-    ]
-  },
-  "_B6N17mhK.js": {
-    "file": "assets/B6N17mhK.js",
-    "name": "AccountTile",
-    "imports": [
-      "src/main.tsx",
-      "_Dkha7hOO.js",
-      "_BVfD-bny.js"
-    ]
-  },
-  "_BQ9nIB57.js": {
-    "file": "assets/BQ9nIB57.js",
-    "name": "AuthorizedLayout",
-    "imports": [
-      "src/main.tsx",
-      "_BVfD-bny.js"
-    ]
-  },
-  "_BVfD-bny.js": {
-    "file": "assets/BVfD-bny.js",
-    "name": "purify.es",
+  "_12Zswrt4.js": {
+    "file": "assets/12Zswrt4.js",
+    "name": "Link",
     "imports": [
       "src/main.tsx"
     ]
   },
-  "_BlatK_BK.js": {
-    "file": "assets/BlatK_BK.js",
+  "_B79dctrY.js": {
+    "file": "assets/B79dctrY.js",
+    "name": "ListItem",
+    "imports": [
+      "src/main.tsx",
+      "_12Zswrt4.js"
+    ]
+  },
+  "_D3p1Atog.js": {
+    "file": "assets/D3p1Atog.js",
     "name": "OnboardingForm",
     "imports": [
       "src/main.tsx",
-      "_BVfD-bny.js",
-      "_Dkha7hOO.js"
+      "_12Zswrt4.js",
+      "_fzc1nNVB.js"
     ]
   },
-  "_CI865kMO.js": {
-    "file": "assets/CI865kMO.js",
+  "_DNyg_vK7.js": {
+    "file": "assets/DNyg_vK7.js",
+    "name": "AuthorizedLayout",
+    "imports": [
+      "src/main.tsx",
+      "_12Zswrt4.js"
+    ]
+  },
+  "_DWlTNhVx.js": {
+    "file": "assets/DWlTNhVx.js",
+    "name": "AccountTile",
+    "imports": [
+      "src/main.tsx",
+      "_fzc1nNVB.js",
+      "_12Zswrt4.js"
+    ]
+  },
+  "_DtpxOzKf.js": {
+    "file": "assets/DtpxOzKf.js",
     "name": "useAuthenticationData",
     "imports": [
       "src/main.tsx",
-      "_Dkha7hOO.js",
-      "_BVfD-bny.js"
+      "_fzc1nNVB.js",
+      "_12Zswrt4.js"
     ]
   },
-  "_Dkha7hOO.js": {
-    "file": "assets/Dkha7hOO.js",
+  "_fzc1nNVB.js": {
+    "file": "assets/fzc1nNVB.js",
     "name": "UserSettingsSchema",
     "imports": [
       "src/main.tsx",
-      "_BVfD-bny.js"
+      "_12Zswrt4.js"
     ]
   },
   "assets/fonts/Inter-Variable.woff2": {
@@ -66,7 +66,7 @@
     "src": "assets/fonts/Nunito-Variable.woff2"
   },
   "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js": {
-    "file": "assets/DVXVT7qf.js",
+    "file": "assets/CqbwAFKG.js",
     "name": "BaseTanStackRouterDevtoolsPanel-SWyE65Is",
     "src": "node_modules/@tanstack/router-devtools-core/dist/BaseTanStackRouterDevtoolsPanel-SWyE65Is.js",
     "isDynamicEntry": true,
@@ -75,7 +75,7 @@
     ]
   },
   "src/main.tsx": {
-    "file": "assets/J3XbFqv-.js",
+    "file": "assets/zMBb-g8y.js",
     "name": "main",
     "src": "src/main.tsx",
     "isEntry": true,
@@ -88,7 +88,7 @@
       "src/routes/_authorized/settings/account.lazy.tsx"
     ],
     "css": [
-      "assets/Br94v6bi.css"
+      "assets/DBq73rvc.css"
     ],
     "assets": [
       "assets/DiVDrmQJ.woff2",
@@ -96,68 +96,68 @@
     ]
   },
   "src/routes/_authorized/route.lazy.tsx": {
-    "file": "assets/CrTmfYUg.js",
+    "file": "assets/BU6RLhgN.js",
     "name": "route.lazy",
     "src": "src/routes/_authorized/route.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_BQ9nIB57.js",
-      "_BVfD-bny.js"
+      "_DNyg_vK7.js",
+      "_12Zswrt4.js"
     ]
   },
   "src/routes/_authorized/settings/account.lazy.tsx": {
-    "file": "assets/gmgNWZMz.js",
+    "file": "assets/6lqLnMLi.js",
     "name": "account.lazy",
     "src": "src/routes/_authorized/settings/account.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_Dkha7hOO.js",
-      "_BVfD-bny.js",
-      "_CI865kMO.js"
+      "_fzc1nNVB.js",
+      "_12Zswrt4.js",
+      "_DtpxOzKf.js"
     ]
   },
   "src/routes/_authorized/settings/connections.lazy.tsx": {
-    "file": "assets/5NCLWOq6.js",
+    "file": "assets/CPY6S_5G.js",
     "name": "connections.lazy",
     "src": "src/routes/_authorized/settings/connections.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_BlatK_BK.js",
-      "_BVfD-bny.js",
-      "_Dkha7hOO.js",
-      "_B6N17mhK.js"
+      "_D3p1Atog.js",
+      "_12Zswrt4.js",
+      "_fzc1nNVB.js",
+      "_DWlTNhVx.js"
     ]
   },
   "src/routes/_authorized/settings/route.lazy.tsx": {
-    "file": "assets/CxqXJQAD.js",
+    "file": "assets/MX-IxI44.js",
     "name": "route.lazy",
     "src": "src/routes/_authorized/settings/route.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_BVfD-bny.js",
-      "_BlatK_BK.js",
-      "_Dkha7hOO.js",
-      "_ATGErG6T.js"
+      "_12Zswrt4.js",
+      "_D3p1Atog.js",
+      "_fzc1nNVB.js",
+      "_B79dctrY.js"
     ]
   },
   "src/routes/index.lazy.tsx": {
-    "file": "assets/Dc4ANLcp.js",
+    "file": "assets/MeR7sliQ.js",
     "name": "index.lazy",
     "src": "src/routes/index.lazy.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/main.tsx",
-      "_BVfD-bny.js",
-      "_Dkha7hOO.js",
-      "_BlatK_BK.js",
-      "_BQ9nIB57.js",
-      "_CI865kMO.js",
-      "_B6N17mhK.js",
-      "_ATGErG6T.js"
+      "_12Zswrt4.js",
+      "_fzc1nNVB.js",
+      "_DNyg_vK7.js",
+      "_D3p1Atog.js",
+      "_DtpxOzKf.js",
+      "_DWlTNhVx.js",
+      "_B79dctrY.js"
     ]
   }
 }
