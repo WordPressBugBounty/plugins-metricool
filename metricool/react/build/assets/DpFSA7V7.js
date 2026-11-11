@@ -1,0 +1,1 @@
+import{u as s,$ as r,O as o,T as t}from"./B0QW-e9w.js";import{A as n}from"./BTGzlvsj.js";import"./DKY1kJtg.js";const a=s("/_authorized")({component:function(){return r.jsxs(r.Fragment,{children:[r.jsx(n,{children:r.jsx(o,{})}),r.jsx(t,{})]})}});export{a as Route};

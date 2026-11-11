@@ -170,6 +170,7 @@ class ComposerStaticInit58cf5e3bdb53fc5f3c1270bf4c660758
         'Metricool\\Services\\ConnectionService' => __DIR__ . '/../..' . '/app/Services/ConnectionService.php',
         'Metricool\\Services\\DashboardService' => __DIR__ . '/../..' . '/app/Services/DashboardService.php',
         'Metricool\\Services\\MetricoolAccountService' => __DIR__ . '/../..' . '/app/Services/MetricoolAccountService.php',
+        'Metricool\\Services\\MetricoolLanguageService' => __DIR__ . '/../..' . '/app/Services/MetricoolLanguageService.php',
         'Metricool\\Services\\OptionsService' => __DIR__ . '/../..' . '/app/Services/OptionsService.php',
         'Metricool\\Services\\OtherPluginService' => __DIR__ . '/../..' . '/app/Services/OtherPluginService.php',
         'Metricool\\Services\\RealtimeService' => __DIR__ . '/../..' . '/app/Services/RealtimeService.php',

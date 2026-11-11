@@ -150,6 +150,7 @@ return array(
     'Metricool\\Services\\ConnectionService' => $baseDir . '/app/Services/ConnectionService.php',
     'Metricool\\Services\\DashboardService' => $baseDir . '/app/Services/DashboardService.php',
     'Metricool\\Services\\MetricoolAccountService' => $baseDir . '/app/Services/MetricoolAccountService.php',
+    'Metricool\\Services\\MetricoolLanguageService' => $baseDir . '/app/Services/MetricoolLanguageService.php',
     'Metricool\\Services\\OptionsService' => $baseDir . '/app/Services/OptionsService.php',
     'Metricool\\Services\\OtherPluginService' => $baseDir . '/app/Services/OtherPluginService.php',
     'Metricool\\Services\\RealtimeService' => $baseDir . '/app/Services/RealtimeService.php',
